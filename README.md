@@ -1,5 +1,5 @@
 # MusicGenre
-Qianwen Ma, Chunyuan Yuan, Wei Zhou, Jizhong Han, Songlin Hu. Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification. In 13th ACM International WSDM Conference. 
+Source code for our WSDM 2020 paper: *Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification.*
 
 
 # Dataset
